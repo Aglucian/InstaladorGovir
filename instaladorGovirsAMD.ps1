@@ -1,0 +1,2 @@
+Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+winget install Google.Chrome -e ; winget install Discord.Discord -e ; winget install Valve.Steam -e; winget install EpicGames.EpicGamesLauncher -e; winget install RARLab.WinRAR -e; winget install 7zip.7zip -e; winget install Spotify.Spotify -e; winget install Logitech.GHUB -e; winget install Guru3D.Afterburner -e; winget install Ryochan7.DS4Windows -e; winget install Ryochan7.DS4Windows -e; winget install 9MV0B5HZVK9Z -e; winget install RiotGames.Valorant.LATAM -e
